@@ -1,5 +1,2 @@
-def introduction_with_languages
-  puts "Hello my name is , and im programming in."
+def introduction(name)
 end
-
-introduction_with_languages
